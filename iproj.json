@@ -1,4 +1,6 @@
 {
   "description": "For recreating issues for vscode-rpgle",
-  "curlib": "&CURLIB"
+  "curlib": "&CURLIB",
+  "buildCommand": "makei build",
+  "compileCommand": "makei compile -f {filename}"
 }
